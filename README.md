@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 He/him
 
 I'm a student at UBC. I'm attending nwHacks and planning to attend more hackathons in the future!
+I can't wait to get started
