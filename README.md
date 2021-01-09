@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+He/him
+
+I'm a student at UBC. I'm attending nwHacks and planning to attend more hackathons in the future!
